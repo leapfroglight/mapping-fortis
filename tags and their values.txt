@@ -1,0 +1,7 @@
+tags and their values
+
+tag_x
+building_outline
+
+supertype_wall_door
+

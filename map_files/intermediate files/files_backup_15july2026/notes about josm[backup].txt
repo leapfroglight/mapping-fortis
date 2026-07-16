@@ -1,0 +1,5 @@
+opening a geojson file containing polygons in JOSM
+
+and saving it from JOSM
+
+changes the polygons into LineStrings again

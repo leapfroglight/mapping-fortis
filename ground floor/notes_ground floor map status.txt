@@ -1,0 +1,16 @@
+outline  [done - copied from 3F]
+inner outline
+
+all POIs  [done][prepared]
+main pathway lines
+all pathway lines
+
+doors in the middle of hallways
+
+feature set of doors overlapping supertype [done - copied from 3F]
+
+linestring to be polygon layer A areas [done][prepared]
+linestring to be polygon layer B rooms
+
+polyons layer A areas
+polygons layer B rooms

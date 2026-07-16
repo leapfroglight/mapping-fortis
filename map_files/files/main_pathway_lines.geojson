@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "notes":[
+                    "contains main pathway lines"
+                ]
+                
+            },
+            "geometry": "null"
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59469599583,
+                        12.98864152824
+                    ],
+                    [
+                        77.59473091841,
+                        12.98861844941
+                    ]
+                ]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59436557325,
+                        12.98828069705
+                    ],
+                    [
+                        77.59437879174,
+                        12.98829508585
+                    ]
+                ]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59431447491,
+                        12.98824989227
+                    ],
+                    [
+                        77.59432676304,
+                        12.98823995467
+                    ],
+                    [
+                        77.59436557325,
+                        12.98828069705
+                    ],
+                    [
+                        77.59439336630,
+                        12.98825745093
+                    ]
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59467476837,
+                        12.98861938092
+                    ],
+                    [
+                        77.59437879174,
+                        12.98829508585
+                    ]
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59470843225,
+                        12.98866325748
+                    ],
+                    [
+                        77.59481607161,
+                        12.98878151464
+                    ],
+                    [
+                        77.59482557504,
+                        12.98877244444
+                    ]
+                ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59470843225,
+                        12.98866325748
+                    ],
+                    [
+                        77.59469599583,
+                        12.98864152824
+                    ]
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59469599583,
+                        12.98864152824
+                    ],
+                    [
+                        77.59467476837,
+                        12.98861938092
+                    ]
+                ]
+            }
+        }
+    ]
+}

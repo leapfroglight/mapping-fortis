@@ -1,0 +1,396 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "wall-6",
+                "type": "wall"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59472498883,
+                        12.98857609837
+                    ],
+                    [
+                        77.59476311769,
+                        12.98861780743
+                    ],
+                    [
+                        77.59488013594,
+                        12.98874706809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "super_type_wall_door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59476311769,
+                        12.98861780743
+                    ],
+                    [
+                        77.59466155847,
+                        12.98870510337
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wall",
+                "id": "wall-3"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59428838466,
+                        12.98829290614
+                    ],
+                    [
+                        77.59427296715,
+                        12.98830616014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "building outline",
+                "type": "linestring_object"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59423086825,
+                        12.98825937618
+                    ],
+                    [
+                        77.59433080013,
+                        12.98814069941
+                    ],
+                    [
+                        77.59488013594,
+                        12.98874706809
+                    ],
+                    [
+                        77.59477857673,
+                        12.98883436399
+                    ],
+                    [
+                        77.59428838466,
+                        12.98829290614
+                    ],
+                    [
+                        77.59427296715,
+                        12.98830616014
+                    ],
+                    [
+                        77.59423086825,
+                        12.98825937618
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wall",
+                "id": "wall-2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59427296715,
+                        12.98830616014
+                    ],
+                    [
+                        77.59423086825,
+                        12.98825937618
+                    ],
+                    [
+                        77.59433080013,
+                        12.98814069941
+                    ],
+                    [
+                        77.59438971438,
+                        12.98820579587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wall",
+                "id": "wall-12"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59462365912,
+                        12.98866320851
+                    ],
+                    [
+                        77.59466155847,
+                        12.98870510337
+                    ],
+                    [
+                        77.59477857673,
+                        12.98883436399
+                    ],
+                    [
+                        77.59481205062,
+                        12.98880559129
+                    ],
+                    [
+                        77.59483653222,
+                        12.98878454796
+                    ],
+                    [
+                        77.59488013594,
+                        12.98874706809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wall",
+                "id": "wall-15"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59462365912,
+                        12.98866320851
+                    ],
+                    [
+                        77.59432906394,
+                        12.98833783542
+                    ],
+                    [
+                        77.59428838466,
+                        12.98829290614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wall",
+                "id": "wall-15"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59443039365,
+                        12.98825072517
+                    ],
+                    [
+                        77.59472498883,
+                        12.98857609837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wall",
+                "id": "wall-16"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59438971438,
+                        12.98820579587
+                    ],
+                    [
+                        77.59443039365,
+                        12.98825072517
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "super_type_wall_door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59472498883,
+                        12.98857609837
+                    ],
+                    [
+                        77.59462365912,
+                        12.98866320851
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "super_type_wall_door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59438971438,
+                        12.98820579587
+                    ],
+                    [
+                        77.59428838466,
+                        12.98829290614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "super_type_wall_door",
+                "type": "linestring_object"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59443039365,
+                        12.98825072517
+                    ],
+                    [
+                        77.59432906394,
+                        12.98833783542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "dashed line",
+                "tag_x": "door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59463614445,
+                        12.98860322850
+                    ],
+                    [
+                        77.59466376295,
+                        12.98857908823
+                    ]
+                ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "door",
+                "paint_as": "dashed line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59479610372,
+                        12.98878797604
+                    ],
+                    [
+                        77.59482058532,
+                        12.98876693271
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "dashed line",
+                "tag_x": "door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59472963711,
+                        12.98871455573
+                    ],
+                    [
+                        77.59475411871,
+                        12.98869351240
+                    ]
+                ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "dashed line",
+                "tag_x": "door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59478046775,
+                        12.98877070425
+                    ],
+                    [
+                        77.59480494935,
+                        12.98874966092
+                    ]
+                ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "dashed line",
+                "tag_x": "door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59453350367,
+                        12.98849173082
+                    ],
+                    [
+                        77.59456112218,
+                        12.98846759054
+                    ]
+                ]
+            }
+        }
+
+    ]
+}

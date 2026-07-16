@@ -1,0 +1,15 @@
+notes
+
+how to mention room 306; 306A; 306B
+
+basically, how to encode multiple POIs in the same point,
+so that they are all individually searcheable?
+
+---
+
+Question,
+
+do we define both the stairs going up and stairs going down from a given floor
+with a single POI
+
+or do we use 2 POIs (one for each)?

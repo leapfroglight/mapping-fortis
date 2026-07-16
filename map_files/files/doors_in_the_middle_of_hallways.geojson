@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+         {
+            "type": "Feature",
+            "properties": {
+                "notes":[
+                    "contains doors that are in the middle of hallways"
+                ]
+                
+            },
+            "geometry": "null"
+          },
+        {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "dashed line",
+                "tag_x": "door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59463614445,
+                        12.98860322850
+                    ],
+                    [
+                        77.59466376295,
+                        12.98857908823
+                    ]
+                ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "door",
+                "paint_as": "dashed line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59479610372,
+                        12.98878797604
+                    ],
+                    [
+                        77.59482058532,
+                        12.98876693271
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "dashed line",
+                "tag_x": "door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59472963711,
+                        12.98871455573
+                    ],
+                    [
+                        77.59475411871,
+                        12.98869351240
+                    ]
+                ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "dashed line",
+                "tag_x": "door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59478046775,
+                        12.98877070425
+                    ],
+                    [
+                        77.59480494935,
+                        12.98874966092
+                    ]
+                ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "dashed line",
+                "tag_x": "door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59453350367,
+                        12.98849173082
+                    ],
+                    [
+                        77.59456112218,
+                        12.98846759054
+                    ]
+                ]
+            }
+        }
+
+    ]
+}

@@ -1,0 +1,1204 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59451751292,
+                        12.98842021821
+                    ],
+                    [
+                        77.59450255868,
+                        12.98843069461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line",
+                "pathway_category": "main_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59469599583,
+                        12.98864152824
+                    ],
+                    [
+                        77.59467476837,
+                        12.98861938092
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 306; 306A; 306B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59450550275,
+                    12.98846131368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59464732708,
+                        12.98861537608
+                    ],
+                    [
+                        77.59466105616,
+                        12.98860435676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59460804638,
+                    12.98851856385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59465414131,
+                        12.98856863634
+                    ],
+                    [
+                        77.59463956743,
+                        12.98858081204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59438118082,
+                    12.98832626388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Nursing administration office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59455107572,
+                    12.98845667716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59457798248,
+                        12.98848590572
+                    ],
+                    [
+                        77.59456364451,
+                        12.98849762501
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59468261270,
+                        12.98859956452
+                    ],
+                    [
+                        77.59466818053,
+                        12.98861216278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Doctors' room Male"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59477019226,
+                    12.98871126755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 303; 303A; 303B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59442206238,
+                    12.98837067316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line",
+                "pathway_category": "main_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59436557325,
+                        12.98828069705
+                    ],
+                    [
+                        77.59437879174,
+                        12.98829508585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59446047818,
+                    12.98835826187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59443219306,
+                        12.98838167803
+                    ],
+                    [
+                        77.59444749692,
+                        12.98837036464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59470843225,
+                        12.98866325748
+                    ],
+                    [
+                        77.59473341382,
+                        12.98869070330
+                    ],
+                    [
+                        77.59475256328,
+                        12.98871174170
+                    ],
+                    [
+                        77.59475999906,
+                        12.98871991097
+                    ],
+                    [
+                        77.59478595707,
+                        12.98874842953
+                    ],
+                    [
+                        77.59479969550,
+                        12.98876352316
+                    ],
+                    [
+                        77.59481607161,
+                        12.98878151464
+                    ],
+                    [
+                        77.59482557504,
+                        12.98877244444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59461639969,
+                        12.98855542768
+                    ],
+                    [
+                        77.59463058301,
+                        12.98854304518
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 308; 308A; 308B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59465414131,
+                    12.98856863634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "utility room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59436997698,
+                    12.98831409325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59479600682,
+                        12.98873978282
+                    ],
+                    [
+                        77.59478595707,
+                        12.98874842953
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59457798248,
+                    12.98848590572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59452310566,
+                        12.98848043556
+                    ],
+                    [
+                        77.59453716671,
+                        12.98846861387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59439524528,
+                        12.98834154198
+                    ],
+                    [
+                        77.59440967412,
+                        12.98832892302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59477019226,
+                        12.98871126755
+                    ],
+                    [
+                        77.59475999906,
+                        12.98871991097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59441969101,
+                    12.98831395513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59455107572,
+                        12.98845667716
+                    ],
+                    [
+                        77.59453716671,
+                        12.98846861387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59442206238,
+                        12.98837067316
+                    ],
+                    [
+                        77.59443665070,
+                        12.98835848067
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 305; 305A; 305B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59448807478,
+                    12.98844238184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Linen room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59476254024,
+                    12.98870281499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Nutrition and Dietetics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59468261270,
+                    12.98859956452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59442753045,
+                        12.98832247104
+                    ],
+                    [
+                        77.59441405336,
+                        12.98833372125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59451751292,
+                    12.98842021821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59439748406,
+                        12.98828983191
+                    ],
+                    [
+                        77.59438445279,
+                        12.98830128854
+                    ],
+                    [
+                        77.59436997698,
+                        12.98831409325
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59450550275,
+                        12.98846131368
+                    ],
+                    [
+                        77.59451970564,
+                        12.98844948215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line",
+                "pathway_category": "main_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59431447491,
+                        12.98824989227
+                    ],
+                    [
+                        77.59432676304,
+                        12.98823995467
+                    ],
+                    [
+                        77.59436557325,
+                        12.98828069705
+                    ],
+                    [
+                        77.59439336630,
+                        12.98825745093
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59476254024,
+                        12.98870281499
+                    ],
+                    [
+                        77.59475256328,
+                        12.98871174170
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59445208748,
+                    12.98834914713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line",
+                "pathway_category": "main_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59470843225,
+                        12.98866325748
+                    ],
+                    [
+                        77.59469599583,
+                        12.98864152824
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 304; 304A; 304B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59443219306,
+                    12.98838167803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 307; 307A; 307B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59452310566,
+                    12.98848043556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59448807478,
+                        12.98844238184
+                    ],
+                    [
+                        77.59450255868,
+                        12.98843069461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59463058301,
+                    12.98854304518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59460804638,
+                        12.98851856385
+                    ],
+                    [
+                        77.59459397244,
+                        12.98853085464
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59482557504,
+                    12.98877244444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59441969101,
+                        12.98831395513
+                    ],
+                    [
+                        77.59440614524,
+                        12.98832505649
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 302; 302A; 302B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59439524528,
+                    12.98834154198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59445208748,
+                        12.98834914713
+                    ],
+                    [
+                        77.59443824000,
+                        12.98836022203
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59438118082,
+                        12.98832626388
+                    ],
+                    [
+                        77.59439579779,
+                        12.98831371902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Admin office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59471908221,
+                    12.98870289659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59479969550,
+                        12.98876352316
+                    ],
+                    [
+                        77.59480970497,
+                        12.98875491407
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59471908221,
+                        12.98870289659
+                    ],
+                    [
+                        77.59473341382,
+                        12.98869070330
+                    ],
+                    [
+                        77.59474345843,
+                        12.98868173685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Doctors' room Female"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59479600682,
+                    12.98873978282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "utility room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59439748406,
+                    12.98828983191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59446047818,
+                        12.98835826187
+                    ],
+                    [
+                        77.59444659203,
+                        12.98836937317
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line",
+                "pathway_category": "main_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59469599583,
+                        12.98864152824
+                    ],
+                    [
+                        77.59472225298,
+                        12.98862417602
+                    ],
+                    [
+                        77.59473091841,
+                        12.98861844941
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway_line",
+                "pathway_category": "main_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59467476837,
+                        12.98861938092
+                    ],
+                    [
+                        77.59466818053,
+                        12.98861216278
+                    ],
+                    [
+                        77.59466105616,
+                        12.98860435676
+                    ],
+                    [
+                        77.59463956743,
+                        12.98858081204
+                    ],
+                    [
+                        77.59461639969,
+                        12.98855542768
+                    ],
+                    [
+                        77.59459397244,
+                        12.98853085464
+                    ],
+                    [
+                        77.59458271297,
+                        12.98851851789
+                    ],
+                    [
+                        77.59456364451,
+                        12.98849762501
+                    ],
+                    [
+                        77.59453716671,
+                        12.98846861387
+                    ],
+                    [
+                        77.59451970564,
+                        12.98844948215
+                    ],
+                    [
+                        77.59450255868,
+                        12.98843069461
+                    ],
+                    [
+                        77.59446970655,
+                        12.98839469924
+                    ],
+                    [
+                        77.59444749692,
+                        12.98837036464
+                    ],
+                    [
+                        77.59444659203,
+                        12.98836937317
+                    ],
+                    [
+                        77.59443824000,
+                        12.98836022203
+                    ],
+                    [
+                        77.59443665070,
+                        12.98835848067
+                    ],
+                    [
+                        77.59441405336,
+                        12.98833372125
+                    ],
+                    [
+                        77.59440967412,
+                        12.98832892302
+                    ],
+                    [
+                        77.59440614524,
+                        12.98832505649
+                    ],
+                    [
+                        77.59439579779,
+                        12.98831371902
+                    ],
+                    [
+                        77.59438445279,
+                        12.98830128854
+                    ],
+                    [
+                        77.59437879174,
+                        12.98829508585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59471884967,
+                        12.98860511805
+                    ],
+                    [
+                        77.59472225298,
+                        12.98862417602
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Patient Lift"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59471884967,
+                    12.98860511805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59445519656,
+                        12.98840666652
+                    ],
+                    [
+                        77.59446970655,
+                        12.98839469924
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "HDU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59464732708,
+                    12.98861537608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "3rd floor ward Nurses' Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59445519656,
+                    12.98840666652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "pathway_category": "small_pathway_line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59459626723,
+                        12.98850576827
+                    ],
+                    [
+                        77.59458271297,
+                        12.98851851789
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "physiotherapy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59474345843,
+                    12.98868173685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59459626723,
+                    12.98850576827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Library"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59480970497,
+                    12.98875491407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59442753045,
+                    12.98832247104
+                ]
+            }
+        }
+    ]
+}

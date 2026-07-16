@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "elevator",
+                "POI": "Elevator B wing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59473091841,
+                    12.98861844941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "steps",
+                "POI": "Staircase A wing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59433639828,
+                    12.98829398424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "steps",
+                "POI": "Staircase B wing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59467018135,
+                    12.98866164856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Patient Lift"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59471884967,
+                    12.98860511805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "elevator",
+                "POI": "Elevator A wing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59439336630,
+                    12.98825745093
+                ]
+            }
+        }
+    ]
+}

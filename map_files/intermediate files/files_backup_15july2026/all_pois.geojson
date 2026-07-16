@@ -1,0 +1,423 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 306; 306A; 306B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59450550275,
+                    12.98846131368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "what_it_is": "opd reception desk",
+                "POI": "3rd_floor_OPD reception desk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59431447491,
+                    12.98824989227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59460804638,
+                    12.98851856385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59438118082,
+                    12.98832626388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Nursing administration office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59455107572,
+                    12.98845667716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Doctors' room Male"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59477019226,
+                    12.98871126755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 303; 303A; 303B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59442206238,
+                    12.98837067316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59446047818,
+                    12.98835826187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 308; 308A; 308B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59465414131,
+                    12.98856863634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "utility room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59436997698,
+                    12.98831409325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59457798248,
+                    12.98848590572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59441969101,
+                    12.98831395513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 305; 305A; 305B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59448807478,
+                    12.98844238184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Linen room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59476254024,
+                    12.98870281499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Nutrition and Dietetics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59468261270,
+                    12.98859956452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59451751292,
+                    12.98842021821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59445208748,
+                    12.98834914713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 304; 304A; 304B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59443219306,
+                    12.98838167803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 307; 307A; 307B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59452310566,
+                    12.98848043556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59463058301,
+                    12.98854304518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59482557504,
+                    12.98877244444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 302; 302A; 302B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59439524528,
+                    12.98834154198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Admin office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59471908221,
+                    12.98870289659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Doctors' room Female"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59479600682,
+                    12.98873978282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "utility room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59439748406,
+                    12.98828983191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Patient Lift"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59471884967,
+                    12.98860511805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "HDU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59464732708,
+                    12.98861537608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "3rd floor ward Nurses' Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59445519656,
+                    12.98840666652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "physiotherapy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59474345843,
+                    12.98868173685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59459626723,
+                    12.98850576827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Library"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59480970497,
+                    12.98875491407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59442753045,
+                    12.98832247104
+                ]
+            }
+        }
+    ]
+}
