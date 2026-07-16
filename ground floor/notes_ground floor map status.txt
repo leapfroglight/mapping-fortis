@@ -12,5 +12,9 @@ feature set of doors overlapping supertype [done - copied from 3F]
 linestring to be polygon layer A areas [done][prepared]
 linestring to be polygon layer B rooms
 
+linestring areas elevators and staircases
+
 polyons layer A areas
 polygons layer B rooms
+
+polygons elevators and staircases

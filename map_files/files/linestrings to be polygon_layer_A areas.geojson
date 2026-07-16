@@ -40,70 +40,6 @@
         {
             "type": "Feature",
             "properties": {
-                "polygon": "stairwell_foorprint_area",
-                "tag": "a wing stairwell"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59431483471,
-                        12.98827016779
-                    ],
-                    [
-                        77.59435551398,
-                        12.98831509708
-                    ],
-                    [
-                        77.59433851482,
-                        12.98832971077
-                    ],
-                    [
-                        77.59429752226,
-                        12.98828505081
-                    ],
-                    [
-                        77.59431483471,
-                        12.98827016779
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "polygon": "elevator_shaft_footprint",
-                "tag": "b wing elevator shaft footprint"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59472801762,
-                        12.98861524514
-                    ],
-                    [
-                        77.59474619503,
-                        12.98859929578
-                    ],
-                    [
-                        77.59475851084,
-                        12.98861276801
-                    ],
-                    [
-                        77.59474001490,
-                        12.98862849757
-                    ],
-                    [
-                        77.59472801762,
-                        12.98861524514
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "polygon": "patient rooms area"
             },
             "geometry": {
@@ -197,38 +133,6 @@
         {
             "type": "Feature",
             "properties": {
-                "polygon": "stairwell_foorprint_area",
-                "tag": "b wing stairwell"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59465061508,
-                        12.98864003527
-                    ],
-                    [
-                        77.59463401748,
-                        12.98865430373
-                    ],
-                    [
-                        77.59467189424,
-                        12.98869621919
-                    ],
-                    [
-                        77.59468853151,
-                        12.98868191851
-                    ],
-                    [
-                        77.59465061508,
-                        12.98864003527
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "polygon": "patient rooms area"
             },
             "geometry": {
@@ -253,38 +157,6 @@
                     [
                         77.59468927443,
                         12.98860680098
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "polygon": "elevator_shaft_footprint",
-                "tag": "a wing elevator shaft footprint"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59438546603,
-                        12.98824872527
-                    ],
-                    [
-                        77.59441009168,
-                        12.98822830212
-                    ],
-                    [
-                        77.59442676300,
-                        12.98824671521
-                    ],
-                    [
-                        77.59440180469,
-                        12.98826677094
-                    ],
-                    [
-                        77.59438546603,
-                        12.98824872527
                     ]
                 ]
             }
@@ -363,38 +235,6 @@
                     [
                         77.59468853151,
                         12.98868191851
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "polygon": "elevator_shaft_footprint",
-                "tag": "patient lift"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59474365799,
-                        12.98859652052
-                    ],
-                    [
-                        77.59472528190,
-                        12.98861222322
-                    ],
-                    [
-                        77.59470919869,
-                        12.98859445737
-                    ],
-                    [
-                        77.59472739738,
-                        12.98857873307
-                    ],
-                    [
-                        77.59474365799,
-                        12.98859652052
                     ]
                 ]
             }
