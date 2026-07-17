@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "notes":[
+                    "contains doors that are overlapping supertype_of_wall_and_door"
+                ]
+                
+            },
+            "geometry": "null"
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "door within a wall line string"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59471951396,
+                        12.98865528732
+                    ],
+                    [
+                        77.59469506726,
+                        12.98867630065
+                    ]
+                ]
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "door": "door",
+                "tag_x": "door within a wall line string"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59433171523,
+                        12.98825565608
+                    ],
+                    [
+                        77.59434478625,
+                        12.98824441930
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "door within a wall line string"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59439192540,
+                        12.98828379522
+                    ],
+                    [
+                        77.59436702518,
+                        12.98830520123
+                    ]
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "door within a wall line string"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59468927443,
+                        12.98860680098
+                    ],
+                    [
+                        77.59466145167,
+                        12.98863071938
+                    ]
+                ]
+            }
+        }
+    ]
+}
