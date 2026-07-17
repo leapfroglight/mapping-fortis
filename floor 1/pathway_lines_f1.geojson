@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "tag1f_POI": "mini canteen",
+                "POI": "mini canteen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59436831679,
+                    12.98825368276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59462439306,
+                        12.98859046290
+                    ],
+                    [
+                        77.59463638876,
+                        12.98858106373
+                    ],
+                    [
+                        77.59467150286,
+                        12.98862207867
+                    ],
+                    [
+                        77.59469263632,
+                        12.98864239700
+                    ],
+                    [
+                        77.59467018135,
+                        12.98866164856
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59473091841,
+                        12.98861844941
+                    ],
+                    [
+                        77.59472076011,
+                        12.98862478000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "SICU",
+                "tag1f_POI": "SICU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59462439306,
+                    12.98859046290
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59433639828,
+                        12.98829398424
+                    ],
+                    [
+                        77.59436086469,
+                        12.98827342988
+                    ],
+                    [
+                        77.59436831679,
+                        12.98825368276
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag1f_POI": "pantry",
+                "POI": "pantry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59471338551,
+                    12.98869652748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Elevator B wing",
+                "highway": "elevator"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59473091841,
+                    12.98861844941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59476077764,
+                        12.98870086798
+                    ],
+                    [
+                        77.59474813816,
+                        12.98870742986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "steps",
+                "POI": "Staircase A wing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59433639828,
+                    12.98829398424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59471884967,
+                        12.98860511805
+                    ],
+                    [
+                        77.59472076011,
+                        12.98862478000
+                    ],
+                    [
+                        77.59469263632,
+                        12.98864239700
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag1f_POI": "Dialysis",
+                "POI": "Dialysis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59476077764,
+                    12.98870086798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag1f_POI": "Cath Lab First floor",
+                "POI": "Cath Lab First floor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59479663513,
+                    12.98876253740
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59469263632,
+                        12.98864239700
+                    ],
+                    [
+                        77.59470870706,
+                        12.98866262393
+                    ],
+                    [
+                        77.59472851690,
+                        12.98868513404
+                    ],
+                    [
+                        77.59474813816,
+                        12.98870742986
+                    ],
+                    [
+                        77.59479663513,
+                        12.98876253740
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "steps",
+                "POI": "Staircase B wing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59467018135,
+                    12.98866164856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "pathway line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59471338551,
+                        12.98869652748
+                    ],
+                    [
+                        77.59472851690,
+                        12.98868513404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Patient Lift"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59471884967,
+                    12.98860511805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "entry into OT complex first floor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59467150286,
+                    12.98862207867
+                ]
+            }
+        }
+    ]
+}

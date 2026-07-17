@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-26600' visible='true' lat='12.98866164856' lon='77.59467018135'>
+    <tag k='POI' v='Staircase B wing' />
+    <tag k='highway' v='steps' />
+  </node>
+  <node id='-26601' visible='true' lat='12.98825368276' lon='77.59436831679'>
+    <tag k='POI' v='mini canteen' />
+    <tag k='tag1f_POI' v='mini canteen' />
+  </node>
+  <node id='-26602' visible='true' lat='12.98829398424' lon='77.59433639828'>
+    <tag k='POI' v='Staircase A wing' />
+    <tag k='highway' v='steps' />
+  </node>
+  <node id='-26603' visible='true' lat='12.98869652748' lon='77.59471338551'>
+    <tag k='POI' v='pantry' />
+    <tag k='tag1f_POI' v='pantry' />
+  </node>
+  <node id='-26604' visible='true' lat='12.98870086798' lon='77.59476077764'>
+    <tag k='POI' v='Dialysis' />
+    <tag k='tag1f_POI' v='Dialysis' />
+  </node>
+  <node id='-26606' visible='true' lat='12.9885904629' lon='77.59462439306'>
+    <tag k='POI' v='SICU' />
+    <tag k='tag1f_POI' v='SICU' />
+  </node>
+  <node id='-26607' visible='true' lat='12.98860511805' lon='77.59471884967'>
+    <tag k='POI' v='Patient Lift' />
+  </node>
+  <node id='-26608' visible='true' lat='12.98861844941' lon='77.59473091841'>
+    <tag k='POI' v='Elevator B wing' />
+    <tag k='highway' v='elevator' />
+  </node>
+  <node id='-26609' visible='true' lat='12.9887625374' lon='77.59479663513'>
+    <tag k='POI' v='Cath Lab First floor' />
+    <tag k='tag1f_POI' v='Cath Lab First floor' />
+  </node>
+  <node id='-26682' action='modify' visible='true' lat='12.98862207867' lon='77.59467150286'>
+    <tag k='POI' v='entry into OT complex first floor' />
+  </node>
+  <node id='-26734' action='modify' visible='true' lat='12.98827342988' lon='77.59436086469' />
+  <node id='-26802' action='modify' visible='true' lat='12.98858106373' lon='77.59463638876' />
+  <node id='-26803' action='modify' visible='true' lat='12.988642397' lon='77.59469263632' />
+  <node id='-26804' action='modify' visible='true' lat='12.98866262393' lon='77.59470870706' />
+  <node id='-26805' action='modify' visible='true' lat='12.98868513404' lon='77.5947285169' />
+  <node id='-26806' action='modify' visible='true' lat='12.98870742986' lon='77.59474813816' />
+  <node id='-26807' action='modify' visible='true' lat='12.98862478' lon='77.59472076011' />
+  <way id='-1327' action='modify' visible='true'>
+    <nd ref='-26602' />
+    <nd ref='-26734' />
+    <nd ref='-26601' />
+    <tag k='tag_x' v='pathway line' />
+  </way>
+  <way id='-1364' action='modify' visible='true'>
+    <nd ref='-26606' />
+    <nd ref='-26802' />
+    <nd ref='-26682' />
+    <nd ref='-26803' />
+    <nd ref='-26600' />
+    <tag k='tag_x' v='pathway line' />
+  </way>
+  <way id='-1397' action='modify' visible='true'>
+    <nd ref='-26803' />
+    <nd ref='-26804' />
+    <nd ref='-26805' />
+    <nd ref='-26806' />
+    <nd ref='-26609' />
+    <tag k='tag_x' v='pathway line' />
+  </way>
+  <way id='-1399' action='modify' visible='true'>
+    <nd ref='-26603' />
+    <nd ref='-26805' />
+    <tag k='tag_x' v='pathway line' />
+  </way>
+  <way id='-1401' action='modify' visible='true'>
+    <nd ref='-26604' />
+    <nd ref='-26806' />
+    <tag k='tag_x' v='pathway line' />
+  </way>
+  <way id='-1403' action='modify' visible='true'>
+    <nd ref='-26607' />
+    <nd ref='-26807' />
+    <nd ref='-26803' />
+    <tag k='tag_x' v='pathway line' />
+  </way>
+  <way id='-1405' action='modify' visible='true'>
+    <nd ref='-26608' />
+    <nd ref='-26807' />
+    <tag k='tag_x' v='pathway line' />
+  </way>
+</osm>
