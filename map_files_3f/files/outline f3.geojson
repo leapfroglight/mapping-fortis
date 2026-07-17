@@ -5,71 +5,8 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "wall-6",
-                "type": "wall"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59472498883,
-                        12.98857609837
-                    ],
-                    [
-                        77.59476311769,
-                        12.98861780743
-                    ],
-                    [
-                        77.59488013594,
-                        12.98874706809
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "tag_x": "super_type_wall_door"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59476311769,
-                        12.98861780743
-                    ],
-                    [
-                        77.59466155847,
-                        12.98870510337
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "wall",
-                "id": "wall-3"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59428838466,
-                        12.98829290614
-                    ],
-                    [
-                        77.59427296715,
-                        12.98830616014
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "tag": "building outline new",
-                "type": "linestring_object"
+                "type": "linestring_object",
+                "tag": "building outline new"
             },
             "geometry": {
                 "type": "LineString",
@@ -133,42 +70,14 @@
             "type": "Feature",
             "properties": {
                 "type": "wall",
-                "id": "wall-2"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59427296715,
-                        12.98830616014
-                    ],
-                    [
-                        77.59423086825,
-                        12.98825937618
-                    ],
-                    [
-                        77.59433080013,
-                        12.98814069941
-                    ],
-                    [
-                        77.59438971438,
-                        12.98820579587
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "wall",
                 "id": "wall-12"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        77.59462365912,
-                        12.98866320851
+                        77.59465986120,
+                        12.98870322717
                     ],
                     [
                         77.59466155847,
@@ -196,23 +105,37 @@
         {
             "type": "Feature",
             "properties": {
-                "type": "wall",
-                "id": "wall-15"
+                "tag_x": "super_type_wall_door"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        77.59462365912,
-                        12.98866320851
-                    ],
-                    [
-                        77.59432906394,
-                        12.98833783542
+                        77.59438971438,
+                        12.98820579587
                     ],
                     [
                         77.59428838466,
                         12.98829290614
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "super_type_wall_door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59476311769,
+                        12.98861780743
+                    ],
+                    [
+                        77.59466155847,
+                        12.98870510337
                     ]
                 ]
             }
@@ -227,12 +150,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        77.59443039365,
-                        12.98825072517
+                        77.59462365912,
+                        12.98866320851
                     ],
                     [
-                        77.59472498883,
-                        12.98857609837
+                        77.59432906394,
+                        12.98833783542
                     ]
                 ]
             }
@@ -260,6 +183,118 @@
         {
             "type": "Feature",
             "properties": {
+                "type": "wall",
+                "id": "wall-3"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59428838466,
+                        12.98829290614
+                    ],
+                    [
+                        77.59427296715,
+                        12.98830616014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "linestring_object",
+                "tag_x": "super_type_wall_door"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59443039365,
+                        12.98825072517
+                    ],
+                    [
+                        77.59432906394,
+                        12.98833783542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wall",
+                "id": "wall-15"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59443039365,
+                        12.98825072517
+                    ],
+                    [
+                        77.59472498883,
+                        12.98857609837
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wall",
+                "id": "wall-2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59427296715,
+                        12.98830616014
+                    ],
+                    [
+                        77.59423086825,
+                        12.98825937618
+                    ],
+                    [
+                        77.59433080013,
+                        12.98814069941
+                    ],
+                    [
+                        77.59438971438,
+                        12.98820579587
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "wall-6",
+                "type": "wall"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59472498883,
+                        12.98857609837
+                    ],
+                    [
+                        77.59476311769,
+                        12.98861780743
+                    ],
+                    [
+                        77.59488013594,
+                        12.98874706809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "tag_x": "super_type_wall_door"
             },
             "geometry": {
@@ -272,45 +307,6 @@
                     [
                         77.59462365912,
                         12.98866320851
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "tag_x": "super_type_wall_door"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59438971438,
-                        12.98820579587
-                    ],
-                    [
-                        77.59428838466,
-                        12.98829290614
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "tag_x": "super_type_wall_door",
-                "type": "linestring_object"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        77.59443039365,
-                        12.98825072517
-                    ],
-                    [
-                        77.59432906394,
-                        12.98833783542
                     ]
                 ]
             }
