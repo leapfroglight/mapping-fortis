@@ -1,0 +1,54 @@
+Floors
+
+Ground floor
+First floor
+Second floor
+Third floor
+Fourth floor 
+
+A_basement
+
+B_mezzanine
+B_basement
+
+...
+
+
+floors mapped from physical space
+
+G, 2, 3
+
+floors mapping approximately, from memory
+1,4
+
+A_basement, B_basement, B_mezzanine
+
+....
+
+
+z order
+
+0 B_basement
+1 B_mezzanine and A_basement
+2 Ground floor
+3 first floor
+4 second floor
+5 third floor
+6 fourth floor
+7 terrace (not mapping for now)
+
+
+...
+
+using these suffixes
+
+Ground floor (g) (f0) (fg)
+First floor (1f) (f1)
+Second floor (2f) (f2)
+Third floor (3f) (f3)
+Fourth floor (4f) (f4)
+
+A_basement () (fab)
+
+B_mezzanine () (fbm)
+B_basement () (fbb)
