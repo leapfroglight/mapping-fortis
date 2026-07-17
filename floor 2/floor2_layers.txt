@@ -1,0 +1,48 @@
+
+
+List of layers from 3rd floor
+
+all_pathway_lines_f3.geojson [CHANGES]
+all_pois f3.geojson [CHANGES]
+doors_in_the_middle_of_hallways f3.geojson [NOT REQUIRED]
+feature_set_doors_that_overlap_supertype f3.geojson [SAME AS F3]
+inner_outline f3.geojson [CHANGES]
+LineString areas elevators and staircases f3 copy.geojson
+LineString areas elevators and staircases f3.geojson [SAME AS F3]
+linestrings to be polygons_layer_B_rooms f3.geojson [changes]
+linestrings to be polygon_layer_A areas f3.geojson [changes]
+main_pathway_lines f3.geojson [changes in B wing]
+outline f3.geojson [SAME AS F3]
+Polygons_layer_A_areas f3.geojson
+Polygons_layer_B_rooms f3.geojson
+saved from JOSM _ Polygons_layer_A_areas f3.geojson
+
+...
+
+
+cleaned up
+
+
+all_pathway_lines_f3.geojson [changes]
+all_pois f3.geojson [changes]
+inner_outline f3.geojson [changes]
+
+linestrings to be polygons_layer_B_rooms f3.geojson [changes]
+linestrings to be polygon_layer_A areas f3.geojson [changes]
+main_pathway_lines f3.geojson [changes in B wing]
+
+
+doors_in_the_middle_of_hallways f3.geojson [NOT REQUIRED]
+
+
+feature_set_doors_that_overlap_supertype f3.geojson [SAME AS F3]
+LineString areas elevators and staircases f3.geojson [SAME AS F3]
+outline f3.geojson [SAME AS F3]
+
+
+
+
+
+layers that are made as a derivative from other layers:
+Polygons_layer_A_areas f3.geojson
+Polygons_layer_B_rooms f3.geojson
