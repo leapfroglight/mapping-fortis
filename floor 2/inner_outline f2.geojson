@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "yet to be figured out",
+                "tag_x": "desk"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59444752576,
+                        12.98839833380
+                    ],
+                    [
+                        77.59446487894,
+                        12.98841767677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "wall"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59471951396,
+                        12.98865528732
+                    ],
+                    [
+                        77.59474345843,
+                        12.98868173685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "wall"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59439192540,
+                        12.98828379522
+                    ],
+                    [
+                        77.59447850460,
+                        12.98837784381
+                    ],
+                    [
+                        77.59449164181,
+                        12.98836636107
+                    ],
+                    [
+                        77.59451671673,
+                        12.98839359973
+                    ],
+                    [
+                        77.59450357951,
+                        12.98840508247
+                    ],
+                    [
+                        77.59468927443,
+                        12.98860680098
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "paint_as": "yet to be figured out",
+                "tag_x": "desk"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59447850460,
+                        12.98837784381
+                    ],
+                    [
+                        77.59449576375,
+                        12.98839635974
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59471908221,
+                        12.98870289659
+                    ],
+                    [
+                        77.59474345843,
+                        12.98868173685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "wall"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59469503236,
+                        12.98867633065
+                    ],
+                    [
+                        77.59471908221,
+                        12.98870289659
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_x": "wall"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59436410453,
+                        12.98830771203
+                    ],
+                    [
+                        77.59444752576,
+                        12.98839833380
+                    ],
+                    [
+                        77.59443690230,
+                        12.98840761936
+                    ],
+                    [
+                        77.59446212158,
+                        12.98843501484
+                    ],
+                    [
+                        77.59447274504,
+                        12.98842572928
+                    ],
+                    [
+                        77.59466145167,
+                        12.98863071938
+                    ]
+                ]
+            }
+        }
+    ]
+}

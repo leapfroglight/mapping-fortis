@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 209A,209B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59459735632,
+                    12.98856109327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59446267030,
+                    12.98836064345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59466212501,
+                    12.98857730885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 207A,207B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59451827072,
+                    12.98847518338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59455574821,
+                    12.98846175281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59441200413,
+                    12.98830560619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 202A, 202B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59439399342,
+                    12.98834018080
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59455229658,
+                    12.98851214533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59444945073,
+                    12.98834628340
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 206A,206B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59449689610,
+                    12.98845196434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59463290111,
+                    12.98859970520
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "electrical room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59468128755,
+                    12.98859812491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59451338917,
+                    12.98841573861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Gastro OPD Entrance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59473161502,
+                    12.98866865439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 204A, 204B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59443252255,
+                    12.98838203558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59464988282,
+                    12.98856401028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59454350602,
+                    12.98844845424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 210A,210B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59461278784,
+                    12.98857785637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 208A,208B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59452927808,
+                    12.98848714056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59442419339,
+                    12.98831884705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 203A, 203B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59442120469,
+                    12.98836974082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 205A,205B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59448516906,
+                    12.98843922537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59458108490,
+                    12.98848927581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "MICU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59470704548,
+                    12.98868960058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59461310319,
+                    12.98852405696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59452344580,
+                    12.98842666303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Room 201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59438324378,
+                    12.98832850330
+                ]
+            }
+        }
+    ]
+}

@@ -46,3 +46,20 @@ outline f3.geojson [SAME AS F3]
 layers that are made as a derivative from other layers:
 Polygons_layer_A_areas f3.geojson
 Polygons_layer_B_rooms f3.geojson
+
+
+
+....
+
+
+LAYERS STILL NEEDING ATTENTION
+
+all_pathway_lines_f3.geojson [changes]
+all_pois f3.geojson [changes]       --- DONE
+inner_outline f3.geojson [changes]   --- DONE
+
+linestrings to be polygons_layer_B_rooms f3.geojson [changes]
+linestrings to be polygon_layer_A areas f3.geojson [changes]
+main_pathway_lines f3.geojson [changes in B wing]
+
+
