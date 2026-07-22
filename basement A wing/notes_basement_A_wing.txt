@@ -18,7 +18,7 @@ Lets use fab specific
 
 Rooms
 
-Broader areas
+Broader areas  -- DONE
 
 POIs
 
