@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_b": "Reception Desk - Radiology"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59439192540,
+                        12.98828379522
+                    ],
+                    [
+                        77.59440313499,
+                        12.98829521655
+                    ],
+                    [
+                        77.59441574777,
+                        12.98830806757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Radiology Reception"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59440313499,
+                    12.98829521655
+                ]
+            }
+        }
+    ]
+}
