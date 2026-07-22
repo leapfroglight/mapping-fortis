@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "polygon": "stairwell_foorprint_area",
+                "tag": "a wing stairwell"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59431483471,
+                        12.98827016779
+                    ],
+                    [
+                        77.59435551398,
+                        12.98831509708
+                    ],
+                    [
+                        77.59433851482,
+                        12.98832971077
+                    ],
+                    [
+                        77.59429752226,
+                        12.98828505081
+                    ],
+                    [
+                        77.59431483471,
+                        12.98827016779
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag": "a wing elevator shaft footprint",
+                "polygon": "elevator_shaft_footprint"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        77.59438546603,
+                        12.98824872527
+                    ],
+                    [
+                        77.59441009168,
+                        12.98822830212
+                    ],
+                    [
+                        77.59442676300,
+                        12.98824671521
+                    ],
+                    [
+                        77.59440180469,
+                        12.98826677094
+                    ],
+                    [
+                        77.59438546603,
+                        12.98824872527
+                    ]
+                ]
+            }
+        }
+    ]
+}
