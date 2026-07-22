@@ -10,7 +10,7 @@ Basement A wing outline
 --
 
 Elevator and staircase areas  --DONE
-elevator and Staircase POIs
+elevator and Staircase POIs  -- DONE
 
 Lets use fab specific
 
