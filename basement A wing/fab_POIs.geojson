@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Radiology Reception"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59440313499,
+                    12.98829521655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Ultrasound Room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59439755689,
+                    12.98834258476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tag_b": "OPD Reception - Basement",
+                "POI": "OPD Reception - Basement"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59434027157,
+                    12.98822344877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "X Ray console room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59444401274,
+                    12.98831190881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "elevator",
+                "POI": "Elevator A wing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59439336630,
+                    12.98825745093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "CT Console Room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59444130262,
+                    12.98834455549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "UPS room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59440947287,
+                    12.98835578903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "steps",
+                "POI": "Staircase A wing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59433639828,
+                    12.98829398424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "Digital X Ray room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59445313081,
+                    12.98833475781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "POI": "CT Scan Room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59442766197,
+                    12.98835585446
+                ]
+            }
+        }
+    ]
+}

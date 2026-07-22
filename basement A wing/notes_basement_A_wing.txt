@@ -20,9 +20,9 @@ Rooms
 
 Broader areas  -- DONE
 
-POIs
+POIs -- DONE (not yet for opd consultation rooms)
 
-pathways
+pathways -- DONE (not yet for opd consultation rooms)
 
 
 
