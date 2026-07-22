@@ -1,8 +1,20 @@
 
 
-full building outline
+outline
 
+can use either: or both:
+full building outline
 Basement A wing outline
+
+
+--
+
+Elevator and staircase areas
+elevator and Staircase POIs
+
+Lets use fab specific
+
+--
 
 Rooms
 
